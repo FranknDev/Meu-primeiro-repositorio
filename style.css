@@ -1,0 +1,44 @@
+body{
+  background: white;
+}
+.cadastro h2{
+  color: #585454;
+}
+.cadastro form{
+  display: flex;
+  flex-direction: column;
+  position: center;
+  margin-top: 80%;
+  width: 530px;
+  height: 500px;
+  margin-left: 50%;
+  margin-right: 50%;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+  text-align: center;
+}
+.cadastro form input{
+  width: 94%;
+  padding: 10px;
+  margin: 5px;
+  background: white;
+}
+.cadastro form a{
+  color: white;
+  background: #000000;
+  text-decoration: none;
+  padding: 5px;
+  text-align: center;
+  width: 97%;
+  margin: 5px;
+  margin-left: 5px;
+  box-shadow: 1px 1px 1px #FFF4F4;
+}
+
+.form h3 b{
+  color: white;
+}
+.form{
+  color: white;
+  margin-left: 235px;
+}
